@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>默认路由</p>
+    <div>后台首页</div>
     <nuxt />
   </div>
 </template>

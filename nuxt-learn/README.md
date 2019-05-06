@@ -21,7 +21,8 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 
-###详细介绍
+###详细介绍 博客： https://blog.csdn.net/lbPro0412/article/details/87166375
 ```
-
+1、环境变量配置
+2、
 ```
